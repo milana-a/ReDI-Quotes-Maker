@@ -1,0 +1,1 @@
+quotes_teacher=["Tell me and I forget. Teach me and I remember. Involve me and I learn.","The art of teaching is the art of assisting discovery.","To teach is to learn twice over.","A teacher affects eternity; he can never tell where his influence stops."]
